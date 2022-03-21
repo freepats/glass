@@ -1,0 +1,567 @@
+//+ Name: Glass
+//+ Date: 2019-12-27
+//+ URL: http://freepats.zenvoid.org/ChromaticPercussion/glass.html
+
+<global>
+ ampeg_release=2.0
+
+<group>
+ //+ RandomRegion: Yes
+ lokey=69 hikey=70
+ pitch_keycenter=70
+ seq_length=5
+ tune=-21
+<region>
+ seq_position=1
+ sample=samples/A#4-B4_01.flac
+<region>
+ seq_position=2
+ sample=samples/A#4-B4_02.flac
+<region>
+ seq_position=3
+ sample=samples/A#4-B4_03.flac
+<region>
+ seq_position=4
+ sample=samples/A#4-B4_04.flac
+<region>
+ seq_position=5
+ sample=samples/A#4-B4_05.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=71
+ seq_length=6
+<region>
+ seq_position=1
+ sample=samples/B4_01.flac
+<region>
+ seq_position=2
+ sample=samples/B4_02.flac
+<region>
+ seq_position=3
+ sample=samples/B4_03.flac
+<region>
+ seq_position=4
+ sample=samples/B4_04.flac
+<region>
+ seq_position=5
+ sample=samples/B4_05.flac
+<region>
+ seq_position=6
+ sample=samples/B4_06.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=72
+ seq_length=6
+<region>
+ seq_position=1
+ sample=samples/C5_01.flac
+<region>
+ seq_position=2
+ sample=samples/C5_02.flac
+<region>
+ seq_position=3
+ sample=samples/C5_03.flac
+<region>
+ seq_position=4
+ sample=samples/C5_04.flac
+<region>
+ seq_position=5
+ sample=samples/C5_05.flac
+<region>
+ seq_position=6
+ sample=samples/C5_06.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=73
+ seq_length=7
+<region>
+ seq_position=1
+ sample=samples/C#5_01.flac
+<region>
+ seq_position=2
+ sample=samples/C#5_02.flac
+<region>
+ seq_position=3
+ sample=samples/C#5_03.flac
+<region>
+ seq_position=4
+ sample=samples/C#5_04.flac
+<region>
+ seq_position=5
+ sample=samples/C#5_05.flac
+<region>
+ seq_position=6
+ sample=samples/C#5_06.flac
+<region>
+ seq_position=7
+ sample=samples/C#5_07.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=74
+ seq_length=7
+<region>
+ seq_position=1
+ sample=samples/D5_01.flac
+<region>
+ seq_position=2
+ sample=samples/D5_02.flac
+<region>
+ seq_position=3
+ sample=samples/D5_03.flac
+<region>
+ seq_position=4
+ sample=samples/D5_04.flac
+<region>
+ seq_position=5
+ sample=samples/D5_05.flac
+<region>
+ seq_position=6
+ sample=samples/D5_06.flac
+<region>
+ seq_position=7
+ sample=samples/D5_07.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=75
+ seq_length=6
+<region>
+ seq_position=1
+ sample=samples/D#5_01.flac
+<region>
+ seq_position=2
+ sample=samples/D#5_02.flac
+<region>
+ seq_position=3
+ sample=samples/D#5_03.flac
+<region>
+ seq_position=4
+ sample=samples/D#5_04.flac
+<region>
+ seq_position=5
+ sample=samples/D#5_05.flac
+<region>
+ seq_position=6
+ sample=samples/D#5_06.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=76
+ seq_length=9
+<region>
+ seq_position=1
+ sample=samples/E5_01.flac
+<region>
+ seq_position=2
+ sample=samples/E5_02.flac
+<region>
+ seq_position=3
+ sample=samples/E5_03.flac
+<region>
+ seq_position=4
+ sample=samples/E5_04.flac
+<region>
+ seq_position=5
+ sample=samples/E5_05.flac
+<region>
+ seq_position=6
+ sample=samples/E5_06.flac
+<region>
+ seq_position=7
+ sample=samples/E5_07.flac
+<region>
+ seq_position=8
+ sample=samples/E5_08.flac
+<region>
+ seq_position=9
+ sample=samples/E5_09.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=77
+ seq_length=9
+<region>
+ seq_position=1
+ sample=samples/F5_01.flac
+<region>
+ seq_position=2
+ sample=samples/F5_02.flac
+<region>
+ seq_position=3
+ sample=samples/F5_03.flac
+<region>
+ seq_position=4
+ sample=samples/F5_04.flac
+<region>
+ seq_position=5
+ sample=samples/F5_05.flac
+<region>
+ seq_position=6
+ sample=samples/F5_06.flac
+<region>
+ seq_position=7
+ sample=samples/F5_07.flac
+<region>
+ seq_position=8
+ sample=samples/F5_08.flac
+<region>
+ seq_position=9
+ sample=samples/F5_09.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=78
+ seq_length=8
+<region>
+ seq_position=1
+ sample=samples/F#5_01.flac
+<region>
+ seq_position=2
+ sample=samples/F#5_02.flac
+<region>
+ seq_position=3
+ sample=samples/F#5_03.flac
+<region>
+ seq_position=4
+ sample=samples/F#5_04.flac
+<region>
+ seq_position=5
+ sample=samples/F#5_05.flac
+<region>
+ seq_position=6
+ sample=samples/F#5_06.flac
+<region>
+ seq_position=7
+ sample=samples/F#5_07.flac
+<region>
+ seq_position=8
+ sample=samples/F#5_08.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=79
+ seq_length=9
+<region>
+ seq_position=1
+ sample=samples/G5_01.flac
+<region>
+ seq_position=2
+ sample=samples/G5_02.flac
+<region>
+ seq_position=3
+ sample=samples/G5_03.flac
+<region>
+ seq_position=4
+ sample=samples/G5_04.flac
+<region>
+ seq_position=5
+ sample=samples/G5_05.flac
+<region>
+ seq_position=6
+ sample=samples/G5_06.flac
+<region>
+ seq_position=7
+ sample=samples/G5_07.flac
+<region>
+ seq_position=8
+ sample=samples/G5_08.flac
+<region>
+ seq_position=9
+ sample=samples/G5_09.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=80
+ volume=-12
+ seq_length=9
+<region>
+ seq_position=1
+ sample=samples/G#5_01.flac
+<region>
+ seq_position=2
+ sample=samples/G#5_02.flac
+<region>
+ seq_position=3
+ sample=samples/G#5_03.flac
+<region>
+ seq_position=4
+ sample=samples/G#5_04.flac
+<region>
+ seq_position=5
+ sample=samples/G#5_05.flac
+<region>
+ seq_position=6
+ sample=samples/G#5_06.flac
+<region>
+ seq_position=7
+ sample=samples/G#5_07.flac
+<region>
+ seq_position=8
+ sample=samples/G#5_08.flac
+<region>
+ seq_position=9
+ sample=samples/G#5_09.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=81
+ seq_length=8
+<region>
+ seq_position=1
+ sample=samples/A5_01.flac
+<region>
+ seq_position=2
+ sample=samples/A5_02.flac
+<region>
+ seq_position=3
+ sample=samples/A5_03.flac
+<region>
+ seq_position=4
+ sample=samples/A5_04.flac
+<region>
+ seq_position=5
+ sample=samples/A5_05.flac
+<region>
+ seq_position=6
+ sample=samples/A5_06.flac
+<region>
+ seq_position=7
+ sample=samples/A5_07.flac
+<region>
+ seq_position=8
+ sample=samples/A5_08.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=82
+ seq_length=7
+<region>
+ seq_position=1
+ sample=samples/A#5_01.flac
+<region>
+ seq_position=2
+ sample=samples/A#5_02.flac
+<region>
+ seq_position=3
+ sample=samples/A#5_03.flac
+<region>
+ seq_position=4
+ sample=samples/A#5_04.flac
+<region>
+ seq_position=5
+ sample=samples/A#5_05.flac
+<region>
+ seq_position=6
+ sample=samples/A#5_06.flac
+<region>
+ seq_position=7
+ sample=samples/A#5_07.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=83
+ seq_length=8
+<region>
+ seq_position=1
+ sample=samples/B5_01.flac
+<region>
+ seq_position=2
+ sample=samples/B5_02.flac
+<region>
+ seq_position=3
+ sample=samples/B5_03.flac
+<region>
+ seq_position=4
+ sample=samples/B5_04.flac
+<region>
+ seq_position=5
+ sample=samples/B5_05.flac
+<region>
+ seq_position=6
+ sample=samples/B5_06.flac
+<region>
+ seq_position=7
+ sample=samples/B5_07.flac
+<region>
+ seq_position=8
+ sample=samples/B5_08.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=84
+ seq_length=8
+<region>
+ seq_position=1
+ sample=samples/C6_01.flac
+<region>
+ seq_position=2
+ sample=samples/C6_02.flac
+<region>
+ seq_position=3
+ sample=samples/C6_03.flac
+<region>
+ seq_position=4
+ sample=samples/C6_04.flac
+<region>
+ seq_position=5
+ sample=samples/C6_05.flac
+<region>
+ seq_position=6
+ sample=samples/C6_06.flac
+<region>
+ seq_position=7
+ sample=samples/C6_07.flac
+<region>
+ seq_position=8
+ sample=samples/C6_08.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=85
+ seq_length=8
+<region>
+ seq_position=1
+ sample=samples/C#6_01.flac
+<region>
+ seq_position=2
+ sample=samples/C#6_02.flac
+<region>
+ seq_position=3
+ sample=samples/C#6_03.flac
+<region>
+ seq_position=4
+ sample=samples/C#6_04.flac
+<region>
+ seq_position=5
+ sample=samples/C#6_05.flac
+<region>
+ seq_position=6
+ sample=samples/C#6_06.flac
+<region>
+ seq_position=7
+ sample=samples/C#6_07.flac
+<region>
+ seq_position=8
+ sample=samples/C#6_08.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=86
+ seq_length=8
+<region>
+ seq_position=1
+ sample=samples/D6_01.flac
+<region>
+ seq_position=2
+ sample=samples/D6_02.flac
+<region>
+ seq_position=3
+ sample=samples/D6_03.flac
+<region>
+ seq_position=4
+ sample=samples/D6_04.flac
+<region>
+ seq_position=5
+ sample=samples/D6_05.flac
+<region>
+ seq_position=6
+ sample=samples/D6_06.flac
+<region>
+ seq_position=7
+ sample=samples/D6_07.flac
+<region>
+ seq_position=8
+ sample=samples/D6_08.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=87
+ seq_length=8
+<region>
+ seq_position=1
+ sample=samples/D#6_01.flac
+<region>
+ seq_position=2
+ sample=samples/D#6_02.flac
+<region>
+ seq_position=3
+ sample=samples/D#6_03.flac
+<region>
+ seq_position=4
+ sample=samples/D#6_04.flac
+<region>
+ seq_position=5
+ sample=samples/D#6_05.flac
+<region>
+ seq_position=6
+ sample=samples/D#6_06.flac
+<region>
+ seq_position=7
+ sample=samples/D#6_07.flac
+<region>
+ seq_position=8
+ sample=samples/D#6_08.flac
+
+<group>
+ //+ RandomRegion: Yes
+ key=88
+ seq_length=7
+<region>
+ seq_position=1
+ sample=samples/E6_01.flac
+<region>
+ seq_position=2
+ sample=samples/E6_02.flac
+<region>
+ seq_position=3
+ sample=samples/E6_03.flac
+<region>
+ seq_position=4
+ sample=samples/E6_04.flac
+<region>
+ seq_position=5
+ sample=samples/E6_05.flac
+<region>
+ seq_position=6
+ sample=samples/E6_06.flac
+<region>
+ seq_position=7
+ sample=samples/E6_07.flac
+
+<group>
+ //+ RandomRegion: Yes
+ lokey=89 hikey=93
+ pitch_keycenter=89
+ seq_length=9
+<region>
+ seq_position=1
+ sample=samples/F6_01.flac
+<region>
+ seq_position=2
+ sample=samples/F6_02.flac
+<region>
+ seq_position=3
+ sample=samples/F6_03.flac
+<region>
+ seq_position=4
+ sample=samples/F6_04.flac
+<region>
+ seq_position=5
+ sample=samples/F6_05.flac
+<region>
+ seq_position=6
+ sample=samples/F6_06.flac
+<region>
+ seq_position=7
+ sample=samples/F6_07.flac
+<region>
+ seq_position=8
+ sample=samples/F6_08.flac
+<region>
+ seq_position=9
+ sample=samples/F6_09.flac
+
